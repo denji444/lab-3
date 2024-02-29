@@ -11,6 +11,8 @@ cout<<"The addition of two numbers are:"<<a+b<<endl;
 cout<<"The subtraction of two numbers are:"<<a-b<<endl;
 //multiplication
 cout<<"The multiplication of two numbers are:"<<a*b<<endl;
+//division
+cout<<"The division of two numbers are:"<<a/b<<endl;
 
   return 0;
 }
