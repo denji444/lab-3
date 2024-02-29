@@ -7,6 +7,8 @@ cout<< "Muhammad Bilal Saleem";
 cout<< "23-SET-016";
 //addition
 cout<<"The addition of two numbers are:"<<a+b<<endl;
+//subtraction
+cout<<"The subtraction of two numbers are:"<<a-b<<endl;
 
   return 0;
 }
